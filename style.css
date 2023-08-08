@@ -20,6 +20,7 @@ background-color: rgb(30, 30, 107);
 }
 
 body{
+    margin: 0;
     height: 100%;
     width: 100%;
 }
@@ -67,6 +68,7 @@ h1{
     }
 
 footer{
+    margin: 0;
     background-color: #c1c4f5;
     /* margin-top: -2rem; */
     justify-content: center;
